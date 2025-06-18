@@ -1,4 +1,3 @@
-# dynamic-pricing-db
-dynamic pricing strategy dashboard using python and sql
+# e-commerce products analysis
 
-dataset: zepto inventory dataset and its competitor blinkit
+This project explores how different aspects of product experience — including delivery options, comfort, pricing, and discounts — impact customer ratings in e-commerce.
