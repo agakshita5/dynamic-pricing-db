@@ -2,8 +2,6 @@
 
 This project analyzes an e-commerce dataset to uncover actionable insights around pricing, discounts, delivery options, and customer feedback. 
 
----
-
 ## 📌 Key Features
 
 - 📈 Dynamic Dashboard (Pivot-based, interactive slicer)
