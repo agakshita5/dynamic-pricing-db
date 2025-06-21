@@ -21,17 +21,17 @@ This project analyzes an e-commerce dataset to uncover actionable insights aroun
 
 ## ⌗ Dataset Description
 
-product_id: Unique identifier for the product
-title: Product name/title
-rating: Average customer rating (0-5)
-ratings_count: Number of ratings received
-initial_price: Original product price
-discount: Discount percentage (%)
-final_price: Discounted price
-amount_of_stars (5 different columns): Distribution of star ratings (1-5 stars) 
-what_customers_said (2 different columns): Customer reviews (sentiments)
-best_offer: Best available deal for the product
-category: Product category
+- product_id: Unique identifier for the product
+- title: Product name/title
+- rating: Average customer rating (0-5)
+- ratings_count: Number of ratings received
+- initial_price: Original product price
+- discount: Discount percentage (%)
+- final_price: Discounted price
+- amount_of_stars (5 different columns): Distribution of star ratings (1-5 stars) 
+- what_customers_said (2 different columns): Customer reviews (sentiments)
+- best_offer: Best available deal for the product
+- category: Product category
 
 
 ## 🛠️ Tools Used
@@ -48,9 +48,5 @@ category: Product category
 ## 📷 Dashboard Preview
 
 <img width="929" alt="Screenshot 2025-06-22 at 00 10 43" src="https://github.com/user-attachments/assets/59ef1be0-03b6-436d-b345-2e9e265b3090" />
-
-
-
-
 
 
