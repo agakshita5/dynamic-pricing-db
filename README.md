@@ -12,7 +12,6 @@ This project analyzes an e-commerce dataset to uncover actionable insights aroun
 - 🎁 Best Offers vs Real Price Advantage
 - 💸 Initial vs Final Price after Discount visualization
 
----
 
 ## 📊 Insights Uncovered
 
@@ -22,24 +21,21 @@ This project analyzes an e-commerce dataset to uncover actionable insights aroun
 - “Best Offers” weren’t always cheapest — regular discounts sometimes beat them in final price after discount.
 - Transparency & comfort issues showed up even in 4–5⭐ reviews — *ratings don’t tell the full story*.
 
----
-
 ## ⌗ Dataset Used
 
 - Microsoft Excel - Pivot Tables, Charts, Conditional Formatting, Slicer for category-based filtering
 
----
 
 ## 🛠️ Tools Used
 
 - Microsoft Excel - Pivot Tables, Charts, Conditional Formatting, Slicer for category-based filtering
 
----
 
 ## 👩🏻‍💻 How to view 
 
 - Download the excel file 'Ecommerce produt insights.xlsx'
 - 'Dashboard' Sheet represents the main dynamic dashboard.
+
 
 ## 📷 Dashboard Preview
 
